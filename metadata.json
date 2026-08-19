@@ -1,0 +1,6 @@
+{
+  "name": "ProfScope - Academic & Professor Explorer",
+  "description": "Interactive academic researcher and professor discovery platform with R1/R2 filtering, publication venue metrics, citations trend analytics, and prospective advisor prospect shortlisting.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
